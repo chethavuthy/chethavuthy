@@ -45,4 +45,4 @@ I'm a passionate self-taught BackEnd Web Developer.
 [website]: https://bitlabs.me
 [twitter]: https://twitter.com/chethavuthy
 [instagram]: https://instagram.com/chetha___nadir
-[linkedin]: www.linkedin.com/in/chethaVUTHY
+[linkedin]: https://www.linkedin.com/in/chethaVUTHY
