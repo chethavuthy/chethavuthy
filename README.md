@@ -1,6 +1,6 @@
 ### Hi there, I'm Chetha 👋
 
-I'm a passionate self-taught BackEnd Web Developer.
+I'm a passionate self-taught Fullstack Developer.
 
 - 🔭 I'm now working on microservices project with NodeJS and React
 - 🌱 I’m currently learning NextJS and Typescript
