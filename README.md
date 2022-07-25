@@ -36,3 +36,6 @@ I'm a passionate self-taught Fullstack Developer.
 [twitter]: https://twitter.com/chethavuthy
 [instagram]: https://instagram.com/chetha___nadir
 [linkedin]: https://www.linkedin.com/in/chethaVUTHY
+
+## 🎶 What I'm Listening to
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3tzbkqml3se66y70ukjnkn60d&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
